@@ -1,0 +1,5 @@
+best_model:
+  model_path: C:\Users\akshay\Desktop\credit card\credit card defaulter\src\artifact\model_trainer\2023-07-20-20-25-43\trained_model\model.pkl
+history:
+  2023-07-20-20-25-43:
+    model_path: C:\Users\akshay\Desktop\credit card\credit card defaulter\src\artifact\model_trainer\2023-07-20-20-23-16\trained_model\model.pkl
